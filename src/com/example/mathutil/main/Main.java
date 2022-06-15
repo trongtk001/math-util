@@ -1,15 +1,7 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package com.giaolang.mathutil.main;
+package com.example.mathutil.main;
 
-import com.giaolang.mathutil.core.MathUtil;
+import com.example.mathutil.core.MathUtil;
 
-/**
- *
- * @author giao.lang
- */
 public class Main {
     public static void main(String[] args) {
         

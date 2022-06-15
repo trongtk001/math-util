@@ -2,19 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/UnitTests/JUnit4TestClass.java to edit this template
  */
-package com.giaolang.mathutil.test.core;
+package com.example.mathutil.test.core;
 
-import com.giaolang.mathutil.core.MathUtil;
+import com.example.mathutil.core.MathUtil;
 import org.junit.Assert;
 import org.junit.Test;
-import static org.junit.Assert.*;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
-
-/**
- *
- * @author giao.lang
- */
 
 //câu lệnh này của JUnit báo hiệu rằng sẽ cần loop qua tập data để
 //lấy cặp data input/expected nhồi vào hàm test 

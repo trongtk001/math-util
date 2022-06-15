@@ -2,18 +2,15 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/UnitTests/JUnit5TestClass.java to edit this template
  */
-package com.giaolang.mathutil.test.core;
+package com.example.mathutil.test.core;
 
-import com.giaolang.mathutil.core.MathUtil;
+import com.example.mathutil.core.MathUtil;
 import org.junit.Assert;
 import org.junit.Test;
 
 
 
-/**
- *
- * @author giao.lang
- */
+
 public class MathUtilityTest {
    //đây là class sẽ sử dụng các hàm của thư viện/framework JUnit
    //để kiểm thử/kiểm tra code chính - hàm tínhGiaiThừa() bên
