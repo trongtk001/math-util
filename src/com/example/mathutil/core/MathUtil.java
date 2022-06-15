@@ -36,7 +36,7 @@ public class MathUtil {
     public static long getFactorial(int n) {
 
         if (n < 0 || n > 20)
-            throw new IllegalArgumentException("n mush be between 0...20");
+            throw new IllegalArgumentException("n mush be between 0...20, pls");
 
         if (n == 0 || n == 1)
             return 1; //kết thúc cuộc chơi sớm nếu nhận những đầu vào đặc biệt

@@ -118,7 +118,7 @@ public class MathUtilityTest {
             //bắt try-catch là JUnit sẽ ra xanh do đã chủ động kiểm soát ngoại lệ
             //nhưng ko chắc ngoại lệ mình cần có xuất hiện hay ko???
             //có đoạn code kiểm soát đúng ngoại lệ IllegalArgumentException xh
-            Assert.assertEquals("Invalid argument. N must be between 0..20", 
+            Assert.assertEquals("n mush be between 0...20, pls",
                             e.getMessage());
             
         }
